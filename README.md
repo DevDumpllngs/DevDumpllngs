@@ -55,15 +55,6 @@
 
 ---
 
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevDumpllngs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDumpllngs&theme=tokyonight&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDumpllngs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
----
-
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevDumpllngs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4">
